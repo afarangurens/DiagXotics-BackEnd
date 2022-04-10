@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-app/* linguist-documentation=false
-app/* linguist-vendored
-=======
-app/* linguist-documentation=false
-app/* linguist-vendored
->>>>>>> 1b7fcf6c6a4546271c04c571b908f135ae79e4d8
+src/* linguist-documentation=false
+src/* linguist-vendored
+
