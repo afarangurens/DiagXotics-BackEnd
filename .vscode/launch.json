@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DiagxoticsApplication<diagxotics>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.afas.diagxotics.DiagxoticsApplication",
+            "projectName": "diagxotics",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
