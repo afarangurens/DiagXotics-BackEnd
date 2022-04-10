@@ -1,2 +1,2 @@
 # DiagXotics
-E-Commerce
+E-Commerce being developed in Springboot
